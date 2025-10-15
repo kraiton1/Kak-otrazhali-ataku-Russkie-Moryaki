@@ -1,0 +1,17 @@
+https://kraiton1.github.io/Kak-otrazhali-ataku-Russkie-Moryaki/
+
+<script type="text/javascript">(function(w,doc) {
+    if (!w.__utlWdgt ) {
+        w.__utlWdgt = true;
+        var d = doc, s = d.createElement('script'), g = 'getElementsByTagName';
+        s.type = 'text/javascript'; s.charset='UTF-8'; s.async = true;
+        s.src = ('https:' == w.location.protocol ? 'https' : 'http')  + '://w.uptolike.com/widgets/v1/uptolike.js';
+        var h=d[g]('body')[0];
+        h.appendChild(s);
+    }})(window,document);
+</script>
+<div data-count-clicks="true" data-icon-style="0" data-text-size="10" data-pid="2047023" data-icon-size="30" data-background-color="#ffffff" data-icon-color="ff0101" data-text-color="000000" data-like-layout="ic" class="uptolike-rating"></div>
+
+
+
+
